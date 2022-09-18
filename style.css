@@ -1,0 +1,18 @@
+body {
+    background: lightblue;
+    text-align: center;
+    margin: 100px;
+}
+input {
+    margin: 25px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    height: 25px;
+    width: 200px;
+    padding: 2px 0px 2px 8px;
+}
+button {
+    background: linear-gradient(90deg, pink,skyblue,lightblue);
+    border-radius: 10px;
+    border: 1px solid gray;
+}
